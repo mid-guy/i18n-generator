@@ -1,8 +1,13 @@
 {
 	"name": "@mg/i18n-generator",
 	"version": "1.0.0",
+	"description": "Universal i18n file generator - Works with Webpack, Vite, Rollup, and any build tool",
 	"main": "dist/index.cjs.js",
 	"module": "dist/index.esm.js",
+	"types": "index.d.ts",
+	"bin": {
+		"i18n-gen": "./src/cli.js"
+	},
 	"scripts": {
 		"build": "rollup -c"
 	},
@@ -13,9 +18,44 @@
 		"@rollup/plugin-terser": "^0.4.4",
 		"rollup": "^4.21.2"
 	},
+	"peerDependencies": {
+		"webpack": "^5.0.0"
+	},
+	"peerDependenciesMeta": {
+		"webpack": {
+			"optional": true
+		}
+	},
 	"files": [
-		"dist"
+		"dist",
+		"src/cli.js",
+		"index.d.ts",
+		"README.md",
+		"LICENSE"
 	],
-	"keywords": [],
-	"license": "MIT"
+	"keywords": [
+		"i18n",
+		"internationalization",
+		"translation",
+		"i18next",
+		"react-i18next",
+		"multilingual",
+		"localization",
+		"l10n",
+		"webpack",
+		"webpack-plugin",
+		"vite",
+		"vite-plugin",
+		"rollup",
+		"cli"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yourusername/i18n-generator.git"
+	},
+	"bugs": {
+		"url": "https://github.com/yourusername/i18n-generator/issues"
+	},
+	"homepage": "https://github.com/yourusername/i18n-generator#readme"
 }

@@ -1,0 +1,55 @@
+{
+	"features": {
+		"title": {
+			"vi": "Tính năng",
+			"en": "Features",
+			"zh": "特性",
+			"ja": "機能",
+			"ko": "기능"
+		},
+		"vite": {
+			"vi": "⚡ Cực kỳ nhanh với Vite",
+			"en": "⚡ Lightning fast with Vite",
+			"zh": "⚡ 使用 Vite 极快",
+			"ja": "⚡ Viteで超高速",
+			"ko": "⚡ Vite로 매우 빠름"
+		},
+		"typescript": {
+			"vi": "🔷 TypeScript hỗ trợ đầy đủ",
+			"en": "🔷 Full TypeScript support",
+			"zh": "🔷 完整的 TypeScript 支持",
+			"ja": "🔷 完全な TypeScript サポート",
+			"ko": "🔷 완전한 TypeScript 지원"
+		},
+		"cli": {
+			"vi": "🛠️ CLI tool universal",
+			"en": "🛠️ Universal CLI tool",
+			"zh": "🛠️ 通用 CLI 工具",
+			"ja": "🛠️ ユニバーサル CLI ツール",
+			"ko": "🛠️ 범용 CLI 도구"
+		},
+		"hmr": {
+			"vi": "🔥 Hot Module Replacement",
+			"en": "🔥 Hot Module Replacement",
+			"zh": "🔥 热模块替换",
+			"ja": "🔥 ホットモジュール置換",
+			"ko": "🔥 핫 모듈 교체"
+		}
+	},
+	"demo": {
+		"nested": {
+			"vi": "Cấu trúc lồng nhau",
+			"en": "Nested structure",
+			"zh": "嵌套结构",
+			"ja": "ネスト構造",
+			"ko": "중첩 구조"
+		},
+		"example": {
+			"vi": "Đây là ví dụ về nested object trong TypeScript",
+			"en": "This is an example of nested object in TypeScript",
+			"zh": "这是 TypeScript 中嵌套对象的示例",
+			"ja": "これは TypeScript のネストされたオブジェクトの例です",
+			"ko": "TypeScript의 중첩 객체 예제입니다"
+		}
+	}
+}

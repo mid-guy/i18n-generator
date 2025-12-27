@@ -1,0 +1,86 @@
+{
+	"errors.validation.required": {
+		"vi": "Trường này là bắt buộc",
+		"en": "This field is required",
+		"zh": "此字段为必填项",
+		"ja": "この項目は必須です",
+		"ko": "이 필드는 필수입니다",
+		"fr": "Ce champ est obligatoire",
+		"de": "Dieses Feld ist erforderlich",
+		"es": "Este campo es obligatorio",
+		"ru": "Это поле обязательно",
+		"ar": "هذا الحقل مطلوب"
+	},
+	"errors.validation.email": {
+		"vi": "Email không hợp lệ",
+		"en": "Invalid email address",
+		"zh": "电子邮件地址无效",
+		"ja": "無効なメールアドレス",
+		"ko": "잘못된 이메일 주소",
+		"fr": "Adresse e-mail invalide",
+		"de": "Ungültige E-Mail-Adresse",
+		"es": "Dirección de correo no válida",
+		"ru": "Неверный адрес электронной почты",
+		"ar": "عنوان البريد الإلكتروني غير صالح"
+	},
+	"errors.validation.password.min": {
+		"vi": "Mật khẩu phải có ít nhất 8 ký tự",
+		"en": "Password must be at least 8 characters",
+		"zh": "密码至少需要8个字符",
+		"ja": "パスワードは8文字以上である必要があります",
+		"ko": "비밀번호는 최소 8자 이상이어야 합니다",
+		"fr": "Le mot de passe doit contenir au moins 8 caractères",
+		"de": "Passwort muss mindestens 8 Zeichen lang sein",
+		"es": "La contraseña debe tener al menos 8 caracteres",
+		"ru": "Пароль должен содержать не менее 8 символов",
+		"ar": "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل"
+	},
+	"errors.network.timeout": {
+		"vi": "Yêu cầu hết thời gian chờ",
+		"en": "Request timeout",
+		"zh": "请求超时",
+		"ja": "リクエストがタイムアウトしました",
+		"ko": "요청 시간 초과",
+		"fr": "Délai d'attente dépassé",
+		"de": "Anfrage-Zeitüberschreitung",
+		"es": "Tiempo de espera agotado",
+		"ru": "Превышено время ожидания запроса",
+		"ar": "انتهت مهلة الطلب"
+	},
+	"errors.network.offline": {
+		"vi": "Không có kết nối internet",
+		"en": "No internet connection",
+		"zh": "没有网络连接",
+		"ja": "インターネット接続がありません",
+		"ko": "인터넷 연결 없음",
+		"fr": "Pas de connexion Internet",
+		"de": "Keine Internetverbindung",
+		"es": "Sin conexión a Internet",
+		"ru": "Нет подключения к Интернету",
+		"ar": "لا يوجد اتصال بالإنترنت"
+	},
+	"errors.server.internal": {
+		"vi": "Lỗi máy chủ nội bộ",
+		"en": "Internal server error",
+		"zh": "内部服务器错误",
+		"ja": "内部サーバーエラー",
+		"ko": "내부 서버 오류",
+		"fr": "Erreur interne du serveur",
+		"de": "Interner Serverfehler",
+		"es": "Error interno del servidor",
+		"ru": "Внутренняя ошибка сервера",
+		"ar": "خطأ في الخادم الداخلي"
+	},
+	"errors.server.notfound": {
+		"vi": "Không tìm thấy trang",
+		"en": "Page not found",
+		"zh": "找不到页面",
+		"ja": "ページが見つかりません",
+		"ko": "페이지를 찾을 수 없습니다",
+		"fr": "Page non trouvée",
+		"de": "Seite nicht gefunden",
+		"es": "Página no encontrada",
+		"ru": "Страница не найдена",
+		"ar": "الصفحة غير موجودة"
+	}
+}

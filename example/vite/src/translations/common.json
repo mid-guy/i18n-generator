@@ -1,0 +1,30 @@
+{
+	"app_title": {
+		"vi": "Vite + React + i18n",
+		"en": "Vite + React + i18n",
+		"zh": "Vite + React + i18n",
+		"ja": "Vite + React + i18n",
+		"ko": "Vite + React + i18n"
+	},
+	"welcome": {
+		"vi": "Chào mừng đến với Vite!",
+		"en": "Welcome to Vite!",
+		"zh": "欢迎使用 Vite！",
+		"ja": "Viteへようこそ！",
+		"ko": "Vite에 오신 것을 환영합니다!"
+	},
+	"description": {
+		"vi": "Ví dụ này sử dụng CLI tool thay vì Webpack plugin",
+		"en": "This example uses CLI tool instead of Webpack plugin",
+		"zh": "此示例使用 CLI 工具而非 Webpack 插件",
+		"ja": "この例では Webpack プラグインの代わりに CLI ツールを使用します",
+		"ko": "이 예제는 Webpack 플러그인 대신 CLI 도구를 사용합니다"
+	},
+	"select_language": {
+		"vi": "Chọn ngôn ngữ",
+		"en": "Select Language",
+		"zh": "选择语言",
+		"ja": "言語を選択",
+		"ko": "언어 선택"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"title": {
+		"vi": "Trang chủ",
+		"en": "Home Page",
+		"zh": "主页",
+		"ja": "ホームページ",
+		"ko": "홈페이지",
+		"fr": "Page d'accueil",
+		"de": "Startseite",
+		"es": "Página de inicio",
+		"ru": "Главная страница",
+		"ar": "الصفحة الرئيسية"
+	},
+	"description": {
+		"vi": "Đây là trang chủ của ứng dụng",
+		"en": "This is the home page of the application",
+		"zh": "这是应用程序的主页",
+		"ja": "これはアプリケーションのホームページです",
+		"ko": "이것은 애플리케이션의 홈 페이지입니다",
+		"fr": "Ceci est la page d'accueil de l'application",
+		"de": "Dies ist die Startseite der Anwendung",
+		"es": "Esta es la página de inicio de la aplicación",
+		"ru": "Это главная страница приложения",
+		"ar": "هذه هي الصفحة الرئيسية للتطبيق"
+	},
+	"button": {
+		"vi": "Bắt đầu",
+		"en": "Get Started",
+		"zh": "开始",
+		"ja": "始める",
+		"ko": "시작하기",
+		"fr": "Commencer",
+		"de": "Loslegen",
+		"es": "Empezar",
+		"ru": "Начать",
+		"ar": "ابدأ"
+	}
+}

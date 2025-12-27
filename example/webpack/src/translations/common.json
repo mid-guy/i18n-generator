@@ -1,0 +1,50 @@
+{
+	"welcome": {
+		"vi": "Chào mừng",
+		"en": "Welcome",
+		"zh": "欢迎",
+		"ja": "ようこそ",
+		"ko": "환영합니다",
+		"fr": "Bienvenue",
+		"de": "Willkommen",
+		"es": "Bienvenido",
+		"ru": "Добро пожаловать",
+		"ar": "أهلا بك"
+	},
+	"hello": {
+		"vi": "Xin chào",
+		"en": "Hello",
+		"zh": "你好",
+		"ja": "こんにちは",
+		"ko": "안녕하세요",
+		"fr": "Bonjour",
+		"de": "Hallo",
+		"es": "Hola",
+		"ru": "Здравствуйте",
+		"ar": "مرحبا"
+	},
+	"goodbye": {
+		"vi": "Tạm biệt",
+		"en": "Goodbye",
+		"zh": "再见",
+		"ja": "さようなら",
+		"ko": "안녕히 가세요",
+		"fr": "Au revoir",
+		"de": "Auf Wiedersehen",
+		"es": "Adiós",
+		"ru": "До свидания",
+		"ar": "وداعا"
+	},
+	"thank_you": {
+		"vi": "Cảm ơn",
+		"en": "Thank you",
+		"zh": "谢谢",
+		"ja": "ありがとう",
+		"ko": "감사합니다",
+		"fr": "Merci",
+		"de": "Danke",
+		"es": "Gracias",
+		"ru": "Спасибо",
+		"ar": "شكرا"
+	}
+}
